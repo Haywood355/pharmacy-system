@@ -8,4 +8,7 @@ Yes, indeed it was an assignment. Nevertheless, I had poured in countless days a
 There were some restriction behind the requirements, ridiciously database were simply out of question and we all had to rely on text files to store any information. In which case, I did some research and find out GSON (Google's JSON) is my perfect gateway for managing the data which turns out suprising well and very easy to use.
 
 ### Language
-Java
+Java, JSON
+
+### Licensing
+Nah, you're free to use but please leave credit where credit is due.
